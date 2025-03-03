@@ -32,7 +32,7 @@ Validação e formatação de código com Prettier e Eslint
 
 1. Clone o repositório:
 
-git clone [https://github.com/Nicolas7720/VidFlow-Vit](https://github.com/Nicolas7720/VidFlow-Vite/new/main?filename=README.md)
+git clone https://github.com/Nicolas7720/VidFlow-Vite/tree/main
 
 2. Acesse o diretório do projeto:
 
@@ -62,7 +62,7 @@ A API roda em http://localhost:3000 e retorna os dados do arquivo JSON.
 
 📷 Demonstração
 
-(Adicione prints ou GIFs mostrando o funcionamento)
+https://private-user-images.githubusercontent.com/139736216/417566744-099bf2cb-9f91-43b2-8baa-10ab3dd4b1e2.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEwNDA2NzIsIm5iZiI6MTc0MTA0MDM3MiwicGF0aCI6Ii8xMzk3MzYyMTYvNDE3NTY2NzQ0LTA5OWJmMmNiLTlmOTEtNDNiMi04YmFhLTEwYWIzZGQ0YjFlMi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwM1QyMjE5MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zODNhMzE5ZDYzZTJhNDI5OTI5YjBjOGUwNGQ5MGRhMmVjZWVkYmVjNTY2ZDFjMzllMGJkMjRjM2Y4MjlmOTFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pnySIlCUPzOo5ZHVxCfNqZSwa2h1aHtoNTriHrc8eek
 
 📄 Licença
 
