@@ -10,7 +10,6 @@ async function buscarMostrarVideos() {
     // fetch retorna uma promise = promessa que busca dados e quando chegar, ela faz algo
     const videos = busca.data
 
-    console.log(busca)
     videos.forEach((video) => {
       if (video.categoria == "") {
         throw new Error("Vídeo não tem Categoria");
